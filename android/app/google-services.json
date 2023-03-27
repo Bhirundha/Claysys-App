@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991350269492",
+    "project_id": "claysys-portal",
+    "storage_bucket": "claysys-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991350269492:android:dd3928543ab05fb9eccc61",
+        "android_client_info": {
+          "package_name": "com.example.claysys_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991350269492-2oj1cjcs8uknpk2gc4phobeanqbhea2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo8WM39usAOqaQnYMfeWBrKUf9iZr1EMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991350269492-2oj1cjcs8uknpk2gc4phobeanqbhea2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

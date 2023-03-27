@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Claysys Portal</string>
+    <string name="item_cta_key">nurture.farm.android.appwidget.CTA</string>
+    <string name="action_click">nurture.farm.android.appwidget.ACTION_CLICK</string>
+    <string name="text_data_key">textData</string>
+    <string name="app_widget_launch_action">es.antonborri.home_widget.action.LAUNCH</string>
+    <string name="app_widget_card_clicked_uri">TravelScheduleAppWidget://cardClicked</string>
+    <string name="designation_data">designation</string>
+    <string name="experience_data">experience</string>
+    <string name="detail_data">detail</string>
+    <string name="isvisible_data">isvisible</string>
+</resources>
